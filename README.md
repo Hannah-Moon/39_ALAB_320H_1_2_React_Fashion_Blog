@@ -2,7 +2,7 @@
 
 <img alt='screen capture' src="./assets/summerTea.gif"></div>
 
-## Learning Objective
+## Learning Objective 🎯
 > - Create an HTML/CSS page.
 > - Convert an HTML/CSS page into React.
 > - Style React components to create a desired layout.
